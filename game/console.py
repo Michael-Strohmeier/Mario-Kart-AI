@@ -5,7 +5,7 @@ import os
 
 class Console:
     def __init__(self):
-        self.path_to_rom: str = 'Mario Kart 64 (USA).z64'
+        self.path_to_rom: str = 'ROM/Mario Kart 64 (USA).z64'
         if not self.emulator_is_running():
             self.launch_rom(self.path_to_rom)
 
