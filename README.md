@@ -1,2 +1,8 @@
 # Mario-Kart-AI
-Some sort of a software system... if you will
+
+'''
+pip install opencv-python
+pip install pywin32
+pip install pynput
+pip install psutil
+'''
