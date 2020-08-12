@@ -1,5 +1,7 @@
 # Mario-Kart-AI
 
+work in progress...
+
 ## Dependencies
 ```
 pip install opencv-python
